@@ -1,0 +1,13 @@
+.container{
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    background-color: antiquewhite;
+}
+.img{
+    width: 450px;
+    height: 220px;
+    margin: 6px auto;
+}

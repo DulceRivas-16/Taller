@@ -1,0 +1,19 @@
+.container{
+justify-content : center ;
+margin: 10px auto;
+width: 500px;
+height: 200px;
+border: 2px solid black;
+background-color:antiquewhite;
+display: flex;
+align-items: center;
+}
+.container .item-1{
+width: 260px;
+height: 130px;
+border: 1px solid black;
+margin: 5px;
+}
+.item-1{
+    background-color:darksalmon;
+}
